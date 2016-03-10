@@ -1,0 +1,25 @@
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.exe.config
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.csprojResolveAssemblyReference.cache
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.csproj.ResolveComReference.cache
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.Properties.Resources.resources
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.csproj.GenerateResource.Cache
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.exe
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.pdb
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.exe
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.pdb
+C:\propelDevelopment\propelprofilegenerator\PropelProfileGenerator\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.MainUI.resources
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.exe.config
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.csproj.ResolveComReference.cache
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.exe
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.pdb
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.exe
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.pdb
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.csprojResolveAssemblyReference.cache
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.MainUI.resources
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.Properties.Resources.resources
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.csproj.GenerateResource.Cache
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.exe.manifest
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\bin\Debug\PropelProfileGenerator.application
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.exe.manifest
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.application
+O:\Propel Application\_SourceCode\Propel Profile Generator V3\PropelProfileGenerator\obj\Debug\PropelProfileGenerator.ProjectForm.resources
